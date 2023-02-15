@@ -49,7 +49,7 @@ const productService = {
   GetDiscounts,
   GetPopular,
   GetProduct,
-  GetProducts,
+  GetProducts
 };
 
 export default productService;

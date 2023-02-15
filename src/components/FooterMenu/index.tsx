@@ -2,7 +2,7 @@ import {
   FooterHighLightedMenuItem,
   FooterMenu,
   FooterMenuItem,
-  Menus,
+  Menus
 } from './styles';
 
 export default function MainMenu() {

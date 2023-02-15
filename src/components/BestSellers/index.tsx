@@ -11,7 +11,7 @@ import {
   BestSellersSection,
   BestSellersTitle,
   BestSellersWrapper,
-  MoreButton,
+  MoreButton
 } from './styles';
 import { getWindowDimensions } from 'utils';
 import { deviceSizes } from 'config/deviceSizes';

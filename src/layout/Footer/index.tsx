@@ -1,4 +1,4 @@
-import FooterMenu from '../../components/FooterMenu';
+import FooterMenu from 'components/FooterMenu';
 
 import {
   FooterComponent,
@@ -10,7 +10,7 @@ import {
   SiteDescription
 } from './styles';
 
-import logo from '../../assets/images/logo.png';
+import logo from 'assets/images/logo.png';
 
 export default function Footer() {
   return (

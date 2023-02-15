@@ -1,6 +1,6 @@
 import styled from 'styled-components';
 
-import { deviceSizes, deviceSizesQueries } from '../../config/deviceSizes';
+import { deviceSizes, deviceSizesQueries } from 'config/deviceSizes';
 
 export const SectionComponent = styled.section`
   width: 100%;

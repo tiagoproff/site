@@ -1,5 +1,6 @@
 import styled from 'styled-components';
-import Section from '../Section';
+
+import Section from 'layout/Section';
 
 export const HeaderComponent = styled.header`
   background: #ffffff;

@@ -11,7 +11,7 @@ import {
   Price,
   PriceLagged,
   Prices,
-  Title,
+  Title
 } from './styles';
 import Product from 'interfaces/Product';
 

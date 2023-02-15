@@ -1,8 +1,8 @@
 import styled from 'styled-components';
 
-import Menu from '../../lib/Menu';
-import Section from '../Section';
-import { deviceSizesQueries } from '../../config/deviceSizes';
+import Menu from 'lib/Menu';
+import Section from 'layout/Section';
+import { deviceSizesQueries } from 'config/deviceSizes';
 
 export const FooterSection = styled(Section)`
   background: #004587;

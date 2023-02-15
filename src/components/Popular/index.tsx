@@ -14,7 +14,7 @@ import {
   PopularWrapper,
   PopularSection,
   PopularTitle,
-  MoreButton,
+  MoreButton
 } from './styles';
 
 export default function Popular() {

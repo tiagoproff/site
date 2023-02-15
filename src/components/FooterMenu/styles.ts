@@ -1,8 +1,7 @@
+import { deviceSizesQueries } from 'config/deviceSizes';
+import Menu from 'lib/Menu';
+import MenuItem from 'lib/Menu/MenuItem';
 import styled from 'styled-components';
-
-import { deviceSizesQueries } from '../../config/deviceSizes';
-import Menu from '../../lib/Menu';
-import MenuItem from '../../lib/Menu/MenuItem';
 
 export const Menus = styled.div`
   padding: 16px;

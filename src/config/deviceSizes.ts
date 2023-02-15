@@ -5,7 +5,7 @@ export const deviceSizes = {
   tablet: 768,
   laptop: 1024,
   laptopL: 1440,
-  desktop: 2560,
+  desktop: 2560
 };
 
 export const deviceSizesQueries = {
@@ -16,5 +16,5 @@ export const deviceSizesQueries = {
   laptop: `(min-width: ${deviceSizes.laptop}px)`,
   laptopL: `(min-width: ${deviceSizes.laptopL}px)`,
   desktop: `(min-width: ${deviceSizes.desktop}px)`,
-  desktopL: `(min-width: ${deviceSizes.desktop}px)`,
+  desktopL: `(min-width: ${deviceSizes.desktop}px)`
 };
